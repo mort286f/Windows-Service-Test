@@ -1,0 +1,2 @@
+13/11/2020 12.53.14: Test window service started
+13/11/2020 12.53.18: Test window service stopped

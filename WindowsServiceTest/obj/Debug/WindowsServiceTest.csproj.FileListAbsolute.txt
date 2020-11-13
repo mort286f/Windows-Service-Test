@@ -1,0 +1,9 @@
+C:\Users\PC Morten\source\repos\WindowsServiceTest\WindowsServiceTest\bin\Debug\WindowsServiceTest.exe.config
+C:\Users\PC Morten\source\repos\WindowsServiceTest\WindowsServiceTest\bin\Debug\WindowsServiceTest.exe
+C:\Users\PC Morten\source\repos\WindowsServiceTest\WindowsServiceTest\bin\Debug\WindowsServiceTest.pdb
+C:\Users\PC Morten\source\repos\WindowsServiceTest\WindowsServiceTest\obj\Debug\WindowsServiceTest.csprojAssemblyReference.cache
+C:\Users\PC Morten\source\repos\WindowsServiceTest\WindowsServiceTest\obj\Debug\WindowsServiceTest.ProjectInstaller.resources
+C:\Users\PC Morten\source\repos\WindowsServiceTest\WindowsServiceTest\obj\Debug\WindowsServiceTest.csproj.GenerateResource.cache
+C:\Users\PC Morten\source\repos\WindowsServiceTest\WindowsServiceTest\obj\Debug\WindowsServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\PC Morten\source\repos\WindowsServiceTest\WindowsServiceTest\obj\Debug\WindowsServiceTest.exe
+C:\Users\PC Morten\source\repos\WindowsServiceTest\WindowsServiceTest\obj\Debug\WindowsServiceTest.pdb
